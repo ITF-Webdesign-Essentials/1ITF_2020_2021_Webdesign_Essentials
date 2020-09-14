@@ -1,0 +1,124 @@
+#container {
+    margin: auto;
+    padding: 10px;
+    width: 960px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+a:link,
+a:visited {
+    font-weight: bold;
+    color: #ec4b2f;
+    background-color: transparent;
+    text-decoration: none;
+    border-bottom: 1px solid #ec4b2f;
+    font-size: 0.8em;
+}
+
+a:hover,
+a:active {
+    border-bottom: 1px dotted #ec4b2f;
+    color: #ec4b2f;
+    background-color: #d9e7ec;
+}
+
+header,
+section,
+article,
+footer {
+    padding: 10px 10px;
+    margin: 10px;
+    border: 1px solid #00a0ae;
+    background-color: white;
+}
+
+header {
+    display: block;
+    position: relative;
+    text-align: left;
+}
+
+header img {
+    position: absolute;
+    left: 20px;
+    top: 18px;
+}
+
+header h1 {
+    font-size: 2.3em;
+    text-transform: none;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+header h2 {
+    margin: -10px 0px 20px;
+    font-size: 1.3em;
+    text-align: center
+}
+
+nav {
+    text-align: center;
+    display: block;
+}
+
+nav ul {
+    padding: 0px;
+    list-style-type: none;
+    display: inline;
+}
+
+nav li {
+    margin: 0px 10px;
+    padding: 0px;
+    list-style-type: none;
+    display: inline;
+}
+
+nav h3 {
+    display: none;
+}
+
+section {
+    float: left;
+    width: 178px;
+    text-align: left;
+}
+
+section h1,
+section h2,
+section h3,
+article h1,
+article h2,
+article h3 {
+    background-color: #00a0ae;
+    color: #fff;
+    padding: 9px 10px 10px 10px;
+    margin: 13px -10px;
+}
+
+section li a:link,
+section li a:visited {
+    float: left;
+    width: 96%;
+}
+
+article {
+    float: right;
+    width: 658px;
+    text-align: left;
+}
+
+footer {
+    display: block;
+    clear: both;
+    width: 918px;
+}

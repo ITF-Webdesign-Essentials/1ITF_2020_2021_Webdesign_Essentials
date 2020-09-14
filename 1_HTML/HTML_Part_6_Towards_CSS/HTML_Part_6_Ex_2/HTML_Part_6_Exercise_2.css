@@ -1,0 +1,73 @@
+body {
+    background-color: #009cab;
+    color: #000;
+    font-family: sans-serif;
+}
+
+div {
+    max-width: 1024px;
+    margin: auto;
+    padding: 10px;
+    background-color: #eee;
+    color: #000;
+    border-radius: 20px;
+    border: 5px solid black;
+}
+
+section,
+article {
+    background-color: #fff;
+    color: #000;
+}
+
+article > footer {
+    font-weight: bold;
+    text-align: right;
+    background-color: green;
+    color: #fff;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+figure {
+    margin-left: 150px;
+}
+
+#national,
+#sports,
+#regional {
+    border: 5px solid #f25c04;
+    border-radius: 20px;
+    margin: 20px 20px 20px 140px;
+    padding: 20px;
+}
+
+#sports {
+    border-color: green;
+}
+
+#regional {
+    border-color: black;
+}
+
+#edition {
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+.emphasis {
+    background-color: #000;
+    color: #fff;
+}
+
+.highlight {
+    color: #f24c04;
+    background-color: inherit;
+}
+
+.boldtext {
+    font-weight: bold;
+}

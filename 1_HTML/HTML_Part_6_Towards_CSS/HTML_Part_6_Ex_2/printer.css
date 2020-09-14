@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+}
+
+header,
+footer,
+figure {
+    display: none;
+}

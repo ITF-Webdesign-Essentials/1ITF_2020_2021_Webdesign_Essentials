@@ -1,0 +1,22 @@
+table {
+    border: 3px solid #000;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #000;
+}
+
+colgroup:last-of-type {
+    background-color: #e2e7ec;
+    color: black;
+}
+
+col {
+    width: 160px;
+}
+
+img {
+    border-radius: 50%;
+}

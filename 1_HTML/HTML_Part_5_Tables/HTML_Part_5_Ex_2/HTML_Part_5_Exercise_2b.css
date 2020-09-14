@@ -1,0 +1,29 @@
+table,
+th,
+td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+table {
+    width: 700px;
+}
+
+th {
+    background-color: #000;
+    color: #fff;
+}
+
+tr:nth-child(even) {
+    background-color: #ccc;
+    text-align: center;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    max-width: 500px;
+    padding-bottom: 20px;
+}

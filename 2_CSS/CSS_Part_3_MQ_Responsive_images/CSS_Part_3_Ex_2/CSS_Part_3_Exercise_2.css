@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 14px;
+}
+
+body {
+    font-size: 1rem;
+    line-height: 1.5;
+    background-color: lightblue;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+div,
+h1,
+h2,
+p,
+ul,
+figure {
+    margin: 20px;
+}
+
+li {
+    margin-left: 15px;
+}

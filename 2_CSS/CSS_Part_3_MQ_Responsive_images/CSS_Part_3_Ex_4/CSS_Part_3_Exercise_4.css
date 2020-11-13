@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 18px;
+}
+
+body {
+    font-size: 1rem;
+    line-height: 1.5;
+    font-family: sans-serif;
+}
+
+h1,
+h2,
+img {
+    margin: 20px;
+}

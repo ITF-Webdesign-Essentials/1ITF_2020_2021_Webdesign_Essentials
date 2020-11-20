@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-size: 1rem;
+    line-height: 1.5;
+    font-family: 'Arimo', sans-serif;
+}
+
+h1,
+h2,
+h3,
+p,
+aside,
+#container {
+    padding: 15px;
+}

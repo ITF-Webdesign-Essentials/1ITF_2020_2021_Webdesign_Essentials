@@ -1,0 +1,26 @@
+/*
+Colors: beige (#bcae8d), brown (#8c7a4e), dark (#090601)
+*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 14px;
+}
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    background-color: #bcae8d;
+    padding: 21px;
+}
+
+section,
+h1,
+p {
+    margin: 21px 0;
+}

@@ -1,0 +1,48 @@
+/* no changes allowed */
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: #fcf6db;
+}
+
+.container {
+    background-color: #fff;
+}
+
+p {
+    padding: 30px;
+    border-left: 10px solid black;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#tip1 {
+    background-color: #f6ebb8;
+    background-image: url(1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+#tip2 {
+    background-color: #fdcf1a;
+    background-image: url(2.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+#tip3 {
+    background-color: #f4eb72;
+    background-image: url(3.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+#tip4 {
+    background-color: #a9a983;
+    background-image: url(4.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}

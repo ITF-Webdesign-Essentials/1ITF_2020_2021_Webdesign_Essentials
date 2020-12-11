@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-size: 1rem;
+    line-height: 1.5;
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: #eee;
+}
+
+h1,
+h2 {
+    padding-bottom: 20px;
+}
+
+#container {
+    width: 900px;
+    margin: 10px auto;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #000;
+    text-align: center;
+}

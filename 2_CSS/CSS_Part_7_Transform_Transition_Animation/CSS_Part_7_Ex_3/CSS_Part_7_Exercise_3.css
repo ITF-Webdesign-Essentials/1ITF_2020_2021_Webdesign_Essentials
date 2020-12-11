@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-size: 1rem;
+    line-height: 1.5;
+    background-color: lightgrey;
+}
+
+h1,
+p,
+figure {
+    margin: 10px;
+}
+
+div {
+    width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+}
